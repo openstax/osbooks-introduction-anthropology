@@ -1,0 +1,18 @@
+<col:collection 
+  xmlns:col="http://cnx.rice.edu/collxml"
+  xmlns:md="http://cnx.rice.edu/mdml"
+  xmlns:sys="http://cnx.rice.edu/system-info"
+  xmlns="http://cnx.rice.edu/collxml">
+
+  <col:metadata>
+    <md:uuid>cf0085c6-528c-4101-ad26-19c612c5a2fa</md:uuid>
+    <md:title>Introduction to Anthropology</md:title>
+    <md:slug>introduction-anthropology</md:slug>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:content-id>col00002</md:content-id>
+    <md:language>en</md:language>
+  </col:metadata>
+  <col:content>
+
+  </col:content>
+</col:collection>
