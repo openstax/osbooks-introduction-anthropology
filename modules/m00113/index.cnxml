@@ -6,5 +6,9 @@
     <md:uuid>1d716ffd-0650-41e4-aee0-1c01a0099c4e</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section id="sect-00001">
+      <title/>
+      <para id="para-00001">Placeholder text</para>
+      </section>
+    </content>
 </document>
