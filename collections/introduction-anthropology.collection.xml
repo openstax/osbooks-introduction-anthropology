@@ -8,6 +8,7 @@
     <md:language>en</md:language>
   </col:metadata>
   <content>
+    <module document="m00120"/>
     <subcollection>
       <md:title>What Is Anthropology?</md:title>
       <content>
@@ -227,5 +228,5 @@
         <module document="m00119"/>
       </content>
     </subcollection>
-     </content>
+  </content>
 </col:collection>
