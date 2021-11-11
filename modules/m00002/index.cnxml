@@ -69,8 +69,8 @@
       </section>
   </content>
   <glossary>
-    <definition id="anthropocene-def"><term><emphasis effect="bold">[1.1]</emphasis> Anthropocene</term> <meaning>the contemporary period of increasing human impact on the ecosystems of our planet.</meaning></definition>
-    <definition id="archaeoastronomy-def"><term><emphasis effect="bold">[1.1]</emphasis> archaeoastronomy</term> <meaning>the study of how people in the past understood and used celestial objects for navigation, calendars, politics, and the timing of ritual events.</meaning></definition>
-    <definition id="ethnobotany-def"><term><emphasis effect="bold">[1.1]</emphasis> ethnobotany</term> <meaning>the study of how people in different cultures categorize and use plants for food, shelter, tools, transportation, art, and religion.</meaning></definition>
+    <definition id="anthropocene-def"><term>Anthropocene</term> <meaning>the contemporary period of increasing human impact on the ecosystems of our planet.</meaning></definition>
+    <definition id="archaeoastronomy-def"><term>archaeoastronomy</term> <meaning>the study of how people in the past understood and used celestial objects for navigation, calendars, politics, and the timing of ritual events.</meaning></definition>
+    <definition id="ethnobotany-def"><term>ethnobotany</term> <meaning>the study of how people in different cultures categorize and use plants for food, shelter, tools, transportation, art, and religion.</meaning></definition>
   </glossary>    
 </document>
