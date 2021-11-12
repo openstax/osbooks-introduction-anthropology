@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<templatetitle><span>Human Anthropology: An Archaeological Study of Land Use</span></templatetitle>
+<instruction>
+    <instructionnorm><span>Read the case study. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</span></instructionnorm>
+</instruction>
+  <content>
+    <leftcontent>
+     <contenttitle>Human Anthropology: Land Use—Introduction</contenttitle>
+      <contentdata>
+      <para>Prior to the Industrial Revolution, human land use had significant impact on land features throughout the world. Though little is understood about the nature of these changes, the effects of different types of land use are of great interest to researchers. A better understanding of the relationship between human land use and changes to the environment may provide a clearer path to understanding and managing the environmental impact of human activity on land cover, plants, surface hydrology, and biogeochemical cycles. This understanding could lead to better-informed discussions and decisions about future changes in land use and the likely effects.</para>
+       
+      </contentdata>
+     </leftcontent>
+     <rightcontent>
+        <picture alt="Map of Mesopotamia and the northern Arabian Peninsula" picname="7980165629_51cf322aa0_o.jpg"></picture>
+        <imagecitation>"Middle East, SW Asia and NE Africa" by davecito, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+  
+  <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—The Study</contenttitle>
+      <contentdata>
+        <para>Kathleen D. Morrison and colleagues (2021) set out to synthesize existing paleoenvironmental and archaeological data regarding past human land use. The goal of this research was to incorporate this data into anthropogenic land cover change (ALCC) models, and by extension the models of land use harmonization that partly rely on them, to increase the accuracy of such models in regard to both human land use in the past and predictions of its future effects. To this end, the researchers spent more than three years consulting "groups of archaeologists, historians, and geographers from all parts of the world who specialize in time periods covering the entire Holocene" (under "Introduction")—the current geological epoch—in order to develop a land use classification scheme that, with further research, can ultimately be applied worldwide.</para>
+        
+        </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture  alt="A desert landscape with a promontory extending into the sea in the background" picname="View_from_the_Byzantine_Tower_at_Meskene,_ancient_Barbalissos.jpg"></picture>
+        <imagecitation>"View from the Byzantine Tower at Meskene, ancient Barbalissos" by James Gordon, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+  
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—The Study</contenttitle>
+      <contentdata>
+        <para>The researchers' first task was to develop a uniform terminology for their classification scheme. While many such schemes had already been developed from synthesized historical and archaeological data on a regional scale, these were not consistent across regions, with the same land use practices often referred to by different names.</para>
+        <para>The researchers also had to decide whether to focus their classification scheme on human activities or their presumed outcomes. Though the latter was common among existing schemes, they opted to focus on the former, as their goal was to better understand how activities influence outcomes. Another challenge was to disentangle the concepts of land use and land cover, which existing schemes often conflated. To do so, they needed both archaeological and historical evidence of past land use and paleoecological evidence of past land cover.</para>
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture alt="Two sheep grazing in a field with pillars of Roman ruins behind them." picname='1471524625_efce20bf02_o.jpg'></picture>
+        <imagecitation>"apamea, syria, easter 2004" by  seier, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+  
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—Method</contenttitle>
+      <contentdata>
+        <para>Once the researchers had harmonized regional land use categories into a uniform vocabulary, they organized the categories into a hierarchical but flexible classification scheme that could encompass numerous variables and levels of specificity. The scheme has three different land use (LU) classification levels: LU1, the broadest categories, including "Agriculture," "Hunting-gathering-fishing-foraging," and "Pastoralism"; LU2, which breaks down these broad categories into more specific ones (e.g., "Wet cultivation" as a form of agriculture); and LU3, which further specifies the L2 categories (e.g., "Rice paddy/taro pondfields"; "Raised fields/chinampas") (Morrison et al. 2021, Figure 1). The specificity lost from the harmonized categories is accounted for by additional variables, such as different types of livestock.</para>
+         <para>The researchers' next step was to implement their scheme in a geographic information system (GIS) database. For maximum coverage in the database, regional groups worldwide will enter data for their area in units of 8 &times; 8 km grid squares, organized into several "time slices"—12 KYA, 6 KYA, 4 KYA, and 1500 CE.</para>
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A female archaeologist wearing a park ranger uniform and hat collecting rock samples from a hole dug in the ground at an archaeological dig site." picname='29130223488_341b8566f6_o.jpg'></picture>
+        <imagecitation>"Park Archaeologist Beth Horton pulls an obsidan flake from a dig site" by Jacob W. Frank/NPS/Yellowstone National Park/flickr, Public Domain</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—Analysis</contenttitle>
+      <contentdata>
+        <para>To test their scheme, the researchers entered data for Mesopotamia and Arabia at 6 KYA. The area represents a range of data density; archaeological data for Mesopotamia during this time period is abundant, while data for Arabia during the same period is thin and unevenly distributed. Data for Mesopotamia came from regional-scale surveys of Iraq and Syria in the north, which at the time had been producing food for 3,000–4,000 years, and regional archaeological surveys and paleoenvironmental studies in the south, where advanced agriculture was well established. Data for Arabia came from three synthesized studies of the archaeology, early ecosystem, and land use of the area, with additional evidence from individual sites. At the time, Arabian populations were undergoing major shifts in subsistence patterns due to a decline in rainfall. Pastoralism developed later in Arabia than in Mesopotamia and preceded the development of agriculture by about a millennium.</para>
+       
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="An areal view showing a meandering river, mountains covered with trees, and brown farmlands." picname='17402790612_dd9925916a_o.jpg'></picture>
+        <imagecitation>"syria-somewhere” by Jon Evans/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—Results</contenttitle>
+      <contentdata>
+        <para>According to the classification scheme, most areas of Mesopotamia that were occupied 6 KYA were "LU1 agriculture with LU2 herbaceous/ground crops, focusing on sheep/goat, cattle, pig, and wheat, barley, and pulses," differing primarily in water modification mechanisms (floodplains, rain, or canals/channels). The marshy areas near the coast of the Persian Gulf were "LU1 hunting-gathering-fishing-foraging with LU2 low-level food production," while the modern-day gulf coast was underwater and, as such, was designated LU1 "no human land use" (Morrison et al. 2021, under "Mesopotamia Classification"). Land outside the marshes and the areas around the Tigris and Euphrates rivers was designated LU1 extensive/minimal ("extensive" used here in contrast to "intensive"), indicating that humans passed through but did not settle.</para>
+       
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Two men in a field of crops, one wearing a shirt and pants and one wearing traditional Middle Eastern dress, both bending over to pick from the rows" picname="Kurdish_farmer_in_Iraq,_2007.jpg"></picture>
+        <imagecitation>"Kurdish farmer in Iraq" by Ben Barber/United States Agency for International Development, Public Domain</imagecitation>
+    </rightcontent>
+  </content>
+  
+ <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—Results</contenttitle>
+      <contentdata>
+        <para>In southern Arabia, lands around the Persian Gulf were designated LU1 extensive/minimal; though inhabited during the Neolithic period, there is little evidence of human presence 6 KYA. In the north, sites in the Jordan River valley along the river itself were LU1 agriculture, LU2 herbaceous/ground crops, rainfed water modification. The remaining few known sites in the north and the coasts of modern-day Yemen and Oman in the south were LU1 hunting-gathering-fishing-foraging, LU2 low-level food production. The interior Yemen highlands were LU1 agriculture, LU2 herbaceous/ground crops, with rainfed water modification at the highest altitudes and terrace water below; below 1,500–2,000 m above sea level was assigned LU1 extensive/minimal due to the lack of known 6 KYA sites in the area. Parts of southwest Arabia near major drainage areas were LU1 agriculture, LU2 herbaceous/ground crops, dam water modification, surrounded by LU1 pastoralism focused on cattle and sheep/goats. The remaining areas—including interior Oman, all of interior Arabia, and the land surrounding the known sites in the north—were LU1 extensive/minimal.</para>
+         
+
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A small town of white houses built on the side of a  mountain." picname='master-pnp-ppmsc-04800-04844u.jpg'></picture>
+        <imagecitation>"General view of Artvin from the small town of Svet, Prokudin-Gorsky" by Prokudin Gorski photograph collection/Library of Congress, Public Domain</imagecitation>
+    </rightcontent>
+  </content>
+<content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—Discussion</contenttitle>
+      <contentdata>
+        <para>As demonstrated with Mesopotamia and Arabia, this classification scheme can provide a coherent picture of land use in a given area at a given time, but the detail and accuracy of that picture is entirely dependent on the input data. The sheer volume of environmental and archaeological data that each regional working group must enter for every "time slice" of every 8 &times; 8 km square in their region represents a massive undertaking. The researchers note that while the 8 &times; 8 km squares are "much larger than archaeologists and historians are typically comfortable with," the size was necessary in order to “achiev[e] global maps in a reasonable time frame” (Morrison et al. 2021, under "Implementation of the Classification in a Geospatial Database"). They also acknowledge several times that a lack of archaeological research in an area, such as Arabia, can result in an incomplete picture that “may underrepresent the extent of human activity" (under "Arabia Classification").</para>
+        
+
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Four men and one woman of varying ethnicities sitting at a table with microphones in front of a wall showing the logo of the Global Research Council" picname='The_Secretary.jpg'></picture>
+        <imagecitation>"The Secretary, Department of Science and Technology" by Ministry of Science and Technology (India), Government Open Data License- India, Public Domain</imagecitation>
+    </rightcontent>
+  </content>
+
+    
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Human Anthropology: Land Use—Future Study</contenttitle>
+      <contentdata>
+     
+       <para>The land use classification scheme developed by Morrison et al. (2021) and its implementation in a GIS database are an important preliminary step toward developing more accurate ALCC models. While existing models use algorithms to estimate past human population distributions based on probability, the LandCover6k model relies on vast quantities of empirical data. The drawback of this approach is that this data must be individually coded and classified for each grid square, and it must be done in a way that allows for future corrections and integration of new data. Areas of future research will include the addition of more “time slices” to facilitate time series analyses and further archaeological investigation of areas identified by the model as lacking in data but seemingly significant to changes in land cover.</para>
+        <para><h3>References/Content Citations, Attributions</h3></para>
+          <para>Morrison, Kathleen D., Emily Hammer, Oliver Boles, Marco Madella, Nicola Whitehouse, Marie-Jose Gaillard, Jennifer Bates, et al. 2021. "Mapping Past Human Land Use Using Archaeological Data: A New Classification for Global Land Use Synthesis and Data Harmonization." <em>PLoS ONE</em> 16 (4). <a target="_blank" href="https://doi.org/10.1371/ journal.pone.0246662">https://doi.org/10.1371/ journal.pone.0246662</a>.</para>
+      </contentdata>
+   
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Three people wearing hard hats and digging up a rectangular grid unit in a wooded area" picname='16767006782_2600d3b557_o.jpg'></picture>
+        <imagecitation>"150309 PIT (30)” by ChattOconeeNF/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+</dataset>
