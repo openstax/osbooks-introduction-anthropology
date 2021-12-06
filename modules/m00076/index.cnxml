@@ -33,11 +33,13 @@
       <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
-      <tbody>
+      <thead>
       <row>
       <entry>Religious Affiliation</entry>
       <entry>Percentage</entry>
       </row>
+    </thead>
+    <tbody>
       <row>
       <entry>Christian</entry>
       <entry>70.6%</entry>
@@ -64,7 +66,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>American religious affiliations and “nones,” based on the Pew Research Center’s Religious Landscape Study, 2014. (accreditation: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+      <caption>American religious affiliations and “nones,” based on the Pew Research Center’s Religious Landscape Study, 2014.</caption>
       </table>
       <para id="para-00009">Even those who consider themselves neither spiritual nor religious hold secular, or nonreligious, beliefs that structure how they view themselves and the world they live in. The term <term id="term-00009">worldview</term> refers to a person’s outlook or orientation; it is a learned perspective, which has both individual and collective components, on the nature of life itself. Individuals frequently conflate and intermingle their religious and spiritual beliefs and their worldviews as they experience change within their lives. When studying religion, anthropologists need to remain aware of these various dimensions of belief. The word <emphasis effect="italics">religion</emphasis> is not always adequate to identify an individual’s belief systems.</para>
       <para id="para-00010">Like all social institutions, religion evolves within and across time and cultures—even across early human species! Adapting to changes in population size and the reality of people’s daily lives, religions and religious/spiritual practices reflect life <emphasis effect="italics">on the ground</emphasis>. Interestingly, though, while some institutions (such as economics) tend to change radically from one era to another, often because of technological changes, religion tends to be more <emphasis effect="italics">viscous</emphasis>, meaning it tends to change at a much slower pace and mix together various beliefs and practices. While religion can be a factor in promoting rapid social change, it more commonly changes slowly and retains older features while adding new ones. In effect, religion contains within it many of its earlier iterations and can thus be quite complex.</para>
@@ -93,7 +95,7 @@
       <para id="para-00021">Religious groups typically have some type of leadership, whether formal or informal. Some religious leaders occupy a specific role or status within a larger organization, representing the rules and regulations of the institution, including norms of behavior. In anthropology, these individuals are called <term id="term-00032">priests</term>, even though they may have other titles within their religious groups. Anthropology defines priests as full-time practitioners, meaning they occupy a religious rank at all times, whether or not they are officiating at rituals or ceremonies, and they have leadership over groups of people. They serve as mediators or guides between individuals or groups of people and the deity or deities. In religion-specific terms, anthropological priests may be called by various names, including titles such as priest, pastor, preacher, teacher, imam (Islam), and rabbi (Judaism).</para>
       <para id="para-00022">Another category of specialists is <term id="term-00033">prophets</term>. These individuals are associated with religious change and transformation, calling for a renewal of beliefs or a restructuring of the status quo. Their leadership is usually temporary or indirect, and sometimes the prophet is on the margins of a larger religious organization. German sociologist Max <term class="no-emphasis" id="term-00034">Weber</term> (1947) identified prophets as having <term class="no-emphasis" id="term-00035">charisma</term>, a personality trait that conveys authority:</para>
       <quote id="quote-00001">
-      <para id="para-00023">[Charisma is] a certain quality of an individual personality by virtue of which he is set apart from ordinary men and treated as endowed with supernatural, superhuman, or at least specifically exceptional powers or qualities. These as such are not accessible to the ordinary person, but are regarded as of divine origin or as exemplary, and on the basis of them the individual concerned is treated as a leader. (358–359)</para>
+      <para id="para-00023">Charisma is a certain quality of an individual personality by virtue of which he is set apart from ordinary men and treated as endowed with supernatural, superhuman, or at least specifically exceptional powers or qualities. These as such are not accessible to the ordinary person, but are regarded as of divine origin or as exemplary, and on the basis of them the individual concerned is treated as a leader. (358–359)</para>
       </quote>
       <para id="para-00024">A third type of specialist is <term id="term-00036">shamans</term>. Shamans are part-time religious specialists who work with clients to address very specific and individual needs by making direct contact with deities or supernatural forces. While priests will officiate at recurring ritual events, a shaman, much like a medical psychologist, addresses each individual need. One exception to this is the shaman’s role in subsistence, usually hunting. In societies where the shaman is responsible for “calling up the animals” so that hunters will have success, the ritual may be <term class="no-emphasis" id="term-00037">calendrical</term>, or occurring on a cyclical basis. While shamans are medical and religious specialists within shamanic societies, there are other religions that practice forms of shamanism as part of their own belief systems. Sometimes, these shamanic practitioners will be known by terms such as <emphasis effect="italics">pastor</emphasis> or <emphasis effect="italics">preacher</emphasis>, or even <emphasis effect="italics">layperson</emphasis>. And some religious specialists serve as both part-time priests and part-time shamans, occupying more than one role as needed within a group of practitioners. You will read more about shamanism in the next section.</para>
       </section>
