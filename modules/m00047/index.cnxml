@@ -100,11 +100,11 @@
       </section>
       <section class="critical-thinking" id="sect-00008">
       <title>Critical Thinking Questions</title>
-      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00046"><link class="os-embed" url="IA_Ch7-Sec7_CTQ1"/></para></problem></exercise>
-      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00047"><link class="os-embed" url="IA_Ch7-Sec7_CTQ2"/></para></problem></exercise>
-      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00048"><link class="os-embed" url="IA_Ch7-Sec7_CTQ3"/></para></problem></exercise>
-      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00049"><link class="os-embed" url="IA_Ch7-Sec7_CTQ4"/></para></problem></exercise>
-      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00050"><link class="os-embed" url="IA_Ch7-Sec7_CTQ5"/></para></problem></exercise>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00046"><link class="os-embed" url="#exercise/IA_Ch7-Sec7_CTQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00047"><link class="os-embed" url="#exercise/IA_Ch7-Sec7_CTQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00048"><link class="os-embed" url="#exercise/IA_Ch7-Sec7_CTQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00049"><link class="os-embed" url="#exercise/IA_Ch7-Sec7_CTQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00050"><link class="os-embed" url="#exercise/IA_Ch7-Sec7_CTQ5"/></para></problem></exercise>
       </section>
       <note class="fieldwork-activity" id="note-00002">
       <title>Unstructured Interview</title>
