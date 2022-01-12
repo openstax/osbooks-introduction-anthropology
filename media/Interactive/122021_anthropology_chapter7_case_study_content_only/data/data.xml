@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<templatetitle><span>Case Study: Cultural Anthropology: Redlining</span></templatetitle>
+<instruction>
+    <instructionnorm><span>Scroll down to read each slide in the case study. When you have finished a slide, click on the arrow to go to the next slide. Read through the interaction as many times as you need. There is no time limit and this activity is not graded.</span></instructionnorm>
+</instruction>
+  <content>
+    <leftcontent>
+     <contenttitle>Cultural Anthropology: Redlining—Introduction</contenttitle>
+      <contentdata>
+      <para>Kwate et al. (2012) set out to study segregation of Black neighborhoods in New York City. The foundation for their study was the associations between segregation and concentrations of poverty, constrained access to economic and educational structures, and the physical environments of neighborhoods. The study looked at the distribution of retail businesses within the neighborhoods studied.</para>
+       <para>To accomplish this study, the researchers explored the experiences of residents in predominantly Black communities. They then compared these experiences to those of people living in predominantly White communities in New York City. Their study focused on incidents of retail redlining and the effects on equal distribution of access to retail outlets.</para>
+      </contentdata>
+     </leftcontent>
+     <rightcontent>
+        <picture alt="Black and Hispanic youths gathered in a concrete play area in front of a large mural." picname="3887531261_b09d03e4f2_o.jpg"></picture>
+        <imagecitation>"Wall Painting in Hell's Kitchen of Manhattan, New York City 07/1974" by The U.S. National Archives/flickr, Public Domain)</imagecitation>
+    </rightcontent>
+  </content>
+  
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—The Study</contenttitle>
+      <contentdata>
+        <para>Kwate et al. assessed retail location placement against Maslow’s hierarchy of human needs. They looked at the decisions of retail placement, economic attributes of the areas in which retail stores were placed, and the relationship of those areas to predominantly White and predominantly Black neighborhoods. They focused on metrics related to and experiences of those living in the neighborhoods studied.</para>
+        <para>Their assumptions were based on measures of market potential index (MPI). MPI is derived in part from the expected numbers of consumers based on count and consumption rate. This measure is used to determine placement of retail businesses.</para>
+        </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture  alt="A pyramid labeled Maslow’s Hierarchy of Needs and divided into five sections. The bottom section is labeled Physiological and contains the text “breathing, food, water, sex, sleep, homeostasis, excretion.” The section above it is labeled Safety and reads “security of: body, employment, resources, morality, the family, health, property.” The third section is labeled Love/Belonging and reads “friendship, family, sexual intimacy.” The fourth section is labeled Esteem and reads “self-esteem, confidence, achievement, respect of others, respect by others.” The fifth section, at the top, is labeled Self-Actualization and reads “morality, creativity, spontaneity, problem solving, lack of prejudice, acceptance of facts.”" picname="3779974493_1293e2c9d6_o.jpg"></picture>
+        <imagecitation>"Maslows Hierarchy of Needs" by BetterBizIdeas/flickr, CC BY 2.0)</imagecitation>
+    </rightcontent>
+  </content>
+  
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Method</contenttitle>
+      <contentdata>
+        <para>The study focused on 5,730 census groups across the five boroughs of New York City, comprising approximately 8.175 million people as of the 2010 U.S. Census (Kwate et al. 2012). It explored the incidences of strong retail presence in the city, the prevalence of those retail organizations throughout the city, and nationally available MPI data.</para>
+         <para>Retail stores were sorted into categories that included grocery stores, pharmacies, gyms, and other retail businesses. The study used a combination of visual and analytical methods. Where possible, researchers focused on more than one retail chain in each category in each community to normalize their findings.</para>
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture alt="A map that depicts redlining in a U.S. metropolitan area." picname='Apl-demographics-segregation-milwaukee-redlining-holc-map-crop.jpg'></picture>
+        <imagecitation>"Redlining in Milwaukee" by National Archives, Public Domain)</imagecitation>
+    </rightcontent>
+  </content>
+
+  
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Analysis</contenttitle>
+      <contentdata>
+        <para>After collecting retail point data from across each neighborhood, the researchers began their analysis. The analysis first focused on reviewing maps and making observations about the space and location of retail businesses in each neighborhood. It then focused on proximity to other businesses and the other attributes not easily studied through other measures of analysis.</para>
+         <para>Researchers established scientific measurements to identify dependent and marginal relationships between variables. They looked at the shortest distance to each type of retail store from each of the neighborhoods studied. Then they used generalized linear models (GLMs) to first model access using nearest distance as the response variable and then evaluate retail density with spatial errors taken into account.</para>
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Buildings in a community in New York City." picname='1024px-AHigh_Line_Park,_Section_1a.jpg'></picture>
+        <imagecitation>"A High Line Park, Section" by Dansnguyen, CC0 1.0)</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Results</contenttitle>
+      <contentdata>
+        <para>Kwate et al.'s study yielded many insights. First, the average travel distance in each neighborhood was similar for all residents of that neighborhood. Researchers also found that the variability of distance to the closest outlets was consistent for all residents in that neighborhood. However, they found that the same chain stores were not consistently distanced and did not possess the same level of variability.</para>
+        <para>This phenomenon was consistent in each neighborhood studied, providing statistically significant evidence of the same occurrences of outlet placement and redlining across all neighborhoods.</para>
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A painted sign on the side of a two-story brick building that reads Avignone Pharmacy Prescriptions, followed by an address and phone number." picname='Winston_Churchill_Square_NYC_td_08_-_Avignone_Pharmacy.jpg'></picture>
+        <imagecitation>"Avignone pharmacy in the village 1" by Ed/flickr, CC BY 2.0)</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Results</contenttitle>
+      <contentdata>
+        <para>Kwate et al. also found that while the average distances were the same for residents in the same neighborhood, this was not consistent for residents in different neighborhoods. Predominantly Black communities were spatially closer to retail points such as fast food and farther away from health and hygiene retail outlets. In addition, residents in predominantly Black neighborhoods had to travel farther to reach educational and professional retail outlets.</para>
+
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Several multistory buildings, some with graffiti, shown from the perspective of an elevated walkway." picname='20976500573_9232304441_o.jpg'></picture>
+        <imagecitation>"20150915-OSEC-LSC-0225" by U.S. Department of Agriculture/flickr, Public Domain)</imagecitation>
+    </rightcontent>
+  </content>
+  
+ <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Discussion</contenttitle>
+      <contentdata>
+        <para>Kwate et al. showed that predominantly Black neighborhoods in New York City have limited access to resources, including health and hygiene retail outlets, compared to their predominantly White counterparts. Their research yielded statistically significant incidents of redlining, which have led to longer commutes for residents of predominantly Black neighborhoods. These findings support the hypothesis that redlining in these communities has led to reduced access to Macintyre’s place-based human needs for health, including hygiene and cultural and physical recreation options.</para>
+
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A group of people waiting to board a bus with a destination sign that reads Subway Shuttle." picname='13906287720_5533502a24_o.jpg'></picture>
+        <imagecitation>"IMG_4132" by Slants4Lyfe/flickr, CC BY 2.0)</imagecitation>
+    </rightcontent>
+  </content>
+<content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Discussion</contenttitle>
+      <contentdata>
+        <para>Though researchers found significant correlation with redlining of retail outlets in predominantly Black neighborhoods, they cite limitations of their study related to limited availability of broader data and lack of accounting for small, independent retailers’ influence. They also acknowledge that their data came from a small, private company that, while reputable, did not have a long historical record of providing error-free data. Kwate et al. also shared that additional limitations of the study include a limited correlation of crime and price of insurance, additional retail site selection criteria often used by retailers.</para>
+
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A small corner drugstore with a sign reading Block Drug Stores." picname='4511839831_e18117b38e_o.jpg'></picture>
+        <imagecitation>"block-drug-store-2" by Dan DeLuca/flickr, CC BY 2.0)</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Future Study</contenttitle>
+      <contentdata>
+        <para>Despite the cited limitations, this study discovered incidents of redlining in each predominantly Black neighborhood examined. It observed that predominantly Black neighborhoods have limited or nonexistent access to certain types of health, hygiene, and recreational retail outlets. Whether retail redlining was intended or it passively occurred, this study provides statistically significant evidence of retail redlining of predominantly Black communities in New York City.</para>
+
+       </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A one-story building with a sign reading Queens Urgent Care above a closed roll-down metal door." picname='50614625251_eb5626caa6_o.jpg'></picture>
+        <imagecitation>"Urgent Care Line" by Eden, Janine and Jim/flickr, CC BY 2.0)</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Cultural Anthropology: Redlining—Future Study</contenttitle>
+      <contentdata>
+     
+      <para>Kwate et al. cite a need for future study of the complexity of redlining in predominantly Black communities and its effects on health and well-being. Their assumptions encourage future research focused on these very complex yet vital studies. Researchers share those future longitudinal studies’ need to evaluate retail redlining and the perpetuated disadvantages for residents of these neighborhoods.</para>
+      <para><h3>References/Content Citations, Attributions</h3></para>
+      <para>Kwate, Naa Oyo A., Ji Meng Loh, Kellee White, and Nelson Saldana. 2012. "Retail Redlining in New York City: Racialized Access to Day-to-Day Retail Resources." <em>Journal of Urban Health</em> 90:632–652. <a target="_blank" href="https://doi.org/10.1007/s11524-012-9725-3">https://doi.org/10.1007/s11524-012-9725-3</a>.</para>
+      </contentdata>
+   
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A one-story building with a sign reading Queens Urgent Care above a closed roll-down metal door." picname='50614625251_eb5626caa6_o.jpg'></picture>
+        <imagecitation>"Urgent Care Line" by Eden, Janine and Jim/flickr, CC BY 2.0)</imagecitation>
+    </rightcontent>
+  </content>
+
+</dataset>
