@@ -49,6 +49,7 @@
 </content>
 <glossary>
 <definition id="def-00001"><term>allele</term> <meaning>an alternative form of a gene that arises by mutation and is found in the same place on a chromosome, directly impacting the expression of a genetic trait or phenotype.</meaning></definition>
+<definition id="genotype"><term>genotype</term> <meaning>a complete set of genetic material found in an organism.</meaning></definition>
 <definition id="def-00002"><term>law of independent assortment</term> <meaning>a law of inheritance stating that different genes and their alleles are inherited independently.</meaning></definition>
 <definition id="def-00003"><term>law of segregation</term> <meaning>a law of inheritance stating that when two alleles for a trait separate during the formation of new zygotes, these alleles will combine at random with other alleles.</meaning></definition>
 <definition id="def-00004"><term>phenotype</term> <meaning>the set of observable characteristics or traits of an organism, such as color and structural morphology.</meaning></definition>
