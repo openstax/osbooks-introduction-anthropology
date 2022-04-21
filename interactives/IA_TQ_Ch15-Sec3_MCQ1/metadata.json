@@ -1,0 +1,25 @@
+{
+  "errata_id": "4aec6e28292ac2e78ce47d220eb2a4a50bc8c365ca68089f4e64361eefd745aa",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "lo:stax-anth:15-3-1",
+    "context-cnxmod:2601ffe2-1c97-43bc-a550-256f6df4dba4",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-3-visual-anthropology-and-ethnographic-film"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00089"
+  ]
+}
