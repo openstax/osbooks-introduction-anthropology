@@ -1,0 +1,23 @@
+{
+  "errata_id": "108734f637de600294ade137956da974d5ad81afbdfc841be22577b093117760",
+  "attachments": [],
+  "tags": [
+    "blooms:2",
+    "book:stax-anth",
+    "lo:stax-anth:17-2-3",
+    "context-cnxmod:124d3e85-54ca-4bf7-8abe-0c2a5f2b7a98",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:17-2-ethnomedicine"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "17-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00102"
+  ]
+}
