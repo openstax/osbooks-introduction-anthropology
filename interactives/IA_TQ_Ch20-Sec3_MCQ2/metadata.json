@@ -1,0 +1,18 @@
+{
+  "errata_id": "7260df4a4ed8f0ca4ef7fbe6c1df7e584a044d61faaa45e47aed4b776f13e653",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:20-3-1",
+    "blooms:3",
+    "time:long",
+    "book:stax-anth"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "20-3-1"
+      ]
+    }
+  ]
+}
