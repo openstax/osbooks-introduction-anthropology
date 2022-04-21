@@ -1,0 +1,24 @@
+{
+  "errata_id": "bdafc44f1167fd77a98b4ac14cdc1a2ff4fc3e114b0c7abfe7b17d872782841c",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:18-5-3",
+    "context-cnxmod:e887670e-8140-41e8-9f3c-8df6d20fe2a8",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:18-5-animal-industries-and-the-animal-trade"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "18-5-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00110"
+  ]
+}
