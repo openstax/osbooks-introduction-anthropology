@@ -1,0 +1,23 @@
+{
+  "errata_id": "3021e079c54d4106db23a773c752d57f7c97bdc90d3588eb4b29e7f45d8180a4",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:8-2-1",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:9c1999b0-e7cd-4946-b709-512095c05c96",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:8-2-acephalous-societies-bands-and-tribes"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "8-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00051"
+  ]
+}
