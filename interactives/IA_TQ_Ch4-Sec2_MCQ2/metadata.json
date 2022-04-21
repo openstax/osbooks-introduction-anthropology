@@ -1,0 +1,24 @@
+{
+  "errata_id": "f1145bb431459de96fbae91ef0d4b46d6ec0ef08657511cf5ab78246c0a38e4d",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:4-2-2",
+    "blooms:3",
+    "book:stax-anth",
+    "context-cnxmod:9c251659-acb2-40e7-b439-ff6bc4b5ef61",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-2-whats-in-a-name-the-science-of-taxonomy"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00025"
+  ]
+}
