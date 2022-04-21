@@ -1,0 +1,23 @@
+{
+  "errata_id": "38da7bd6551563ffebdacad2d81b685074c119ad0319b02f694af1918bbdebdd",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:7-5-2",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:483424ec-4fa5-4aa1-bc6b-b24e9b42770b",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-5-plant-cultivation-horticulture-and-agriculture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00046"
+  ]
+}
