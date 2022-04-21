@@ -1,0 +1,24 @@
+{
+  "errata_id": "1d37f4bb913cf1ea001f26ec3f3e9ff03c323bc661850ea3e07fe8ff796241f5",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:9-2-2",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:4ec75dbf-93af-4b7d-879b-f823f7158d20",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:9-2-systems-of-inequality"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "9-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00057"
+  ]
+}
