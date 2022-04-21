@@ -1,0 +1,24 @@
+{
+  "errata_id": "3aa329d9b812fc04c6fedb795d9b3f47fb85d82709af9a1fdb68e39141706c14",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:7-1-1",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:bf9b7680-4458-46e7-8f6e-bdab8957bdcd",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-1-economies-two-ways-to-study-them"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00042"
+  ]
+}
