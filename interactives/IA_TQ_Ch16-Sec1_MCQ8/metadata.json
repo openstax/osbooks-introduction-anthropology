@@ -1,0 +1,23 @@
+{
+  "errata_id": "2e9b180e1f4006db4cab7e24cbd879c0cbd6693aec96b6a06a4d71c5350282de",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "book:stax-anth",
+    "context-cnxmod:c524ece6-79e3-455d-870a-3eb33dc22254",
+    "lo:stax-anth:16-1-5",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:16-1-anthropology-of-the-arts"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "16-1-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00096"
+  ]
+}
