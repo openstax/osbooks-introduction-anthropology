@@ -1,0 +1,25 @@
+{
+  "errata_id": "c416043d55549828d58cdfcd9ddcabf671f638f2f110ff9565ebbf6f2d551f32",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:8d5c701c-1dd0-48f5-9891-5e934b513639",
+    "lo:stax-anth:6-3-1",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:6-5-language-and-power"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "6-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00121"
+  ]
+}
