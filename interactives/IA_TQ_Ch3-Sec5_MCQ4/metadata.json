@@ -1,0 +1,23 @@
+{
+  "errata_id": "c5f99ddcbf8589631160c468fc63c4f31f61975660ee9e06d71c6bf38054b6e5",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:3-5-4",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:87dafee1-dda2-4ba0-a9e3-18f2833f4f8e",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:3-5-modes-of-cultural-analysis"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "3-5-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00021"
+  ]
+}
