@@ -1,0 +1,23 @@
+{
+  "errata_id": "b2330ea97db34dff4c471b9d5a2b3f8cda5003f41b58e5187a3215d3a3b9d728",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:3bbb9321-5f64-408f-829a-07a39c6c4d42",
+    "lo:stax-anth:17-4-6",
+    "blooms:3",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:17-4-applied-medical-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "17-4-6"
+      ]
+    }
+  ],
+  "context": [
+    "m00104"
+  ]
+}
