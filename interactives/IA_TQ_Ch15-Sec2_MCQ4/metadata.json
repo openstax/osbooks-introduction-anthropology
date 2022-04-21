@@ -1,0 +1,25 @@
+{
+  "errata_id": "9c812451bef6e002dc5adf10decc2b35720b306dbeeae80a92e6df2df8375df8",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:d6491a08-47f5-416f-9f02-28c1f5176aa2",
+    "lo:stax-anth:15-2-2",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-2-putting-culture-into-media-studies"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00088"
+  ]
+}
