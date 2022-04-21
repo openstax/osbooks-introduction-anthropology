@@ -1,0 +1,25 @@
+{
+  "errata_id": "0dbf7dbfad73b0386a5a1cf3ea210d6a7f9d9e68df19dbbaa5334152bbb6efce",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:68fd6cd0-99b6-475f-921a-1ac91f191623",
+    "lo:stax-anth:2-6-2",
+    "time:short",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-6-collections"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00015"
+  ]
+}
