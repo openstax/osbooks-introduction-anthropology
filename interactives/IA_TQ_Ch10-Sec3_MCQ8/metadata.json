@@ -1,0 +1,23 @@
+{
+  "errata_id": "0565ff66a6e1c8d4c23c2e172e72813922d61d680449018f6a78b8270a27563d",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:10-3-2",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:179ce2a3-bd1c-45aa-8b0c-74ff9499ae22",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:10-3-peasantry-and-urbanization"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "10-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00063"
+  ]
+}
