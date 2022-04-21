@@ -1,0 +1,24 @@
+{
+  "errata_id": "5fa95d1e13e0d31f405b2db5efad72c577cc06bff60a67b853468d87afcaf623",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:18-3-2",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:5c4f7f7e-9fa2-44c6-a078-17434638b5f6",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:18-3-symbolism-and-meaning-of-animals"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "18-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00108"
+  ]
+}
