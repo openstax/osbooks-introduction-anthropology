@@ -1,0 +1,23 @@
+{
+  "errata_id": "d92c71f093c5fb8432d4a624b772734587e8c68534d9d988f1eaa29f7f6754de",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:3-3-2",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:96066d7c-6209-4a94-827a-ca88570bc1f4",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:3-3-the-elements-of-culture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "3-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00019"
+  ]
+}
