@@ -1,0 +1,23 @@
+{
+  "errata_id": "65814e74ca07888c2a56abbe2d0ff5d2dbdabd954dc1cd48823ba05350530314",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:12-2-2",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:b6007441-aa1e-4fa6-8f3c-46b46bb73fb2",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-2-performing-gender-categories"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00072"
+  ]
+}
