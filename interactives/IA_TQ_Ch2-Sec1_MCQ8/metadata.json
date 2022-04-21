@@ -1,0 +1,24 @@
+{
+  "errata_id": "b3f8d90890ff63140906b7342525578463f0cfff23c7062a464cbc248fa5128a",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:2-1-4",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:4df99952-ffcc-450d-a284-bc23c8a3028b",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-1-archaeological-research-methods"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-1-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00010"
+  ]
+}
