@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Believed to be the earliest known musical instrument, a Neanderthal flute made out of bear bone was found in Slovenia and dated to around 50,000 years ago. How might an archaeologist determine how an ancient musical instrument was made and who made it? \nHear it being played: <a href=\"https://youtu.be/sHy9FOblt7Y\" rel=\"nofollow\" target=\"_blank\"><u>https.//youtu.be/sHy9FOblt7Y</u></a> ",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Look at archaeological records for other similar artifacts"
+    },
+    {
+      "text": "Refer to present-day cultural groups that use a similar instrument"
+    },
+    {
+      "text": "Use experimental archaeology to reconstruct the instrument with tools the Neanderthals would have had access to"
+    },
+    {
+      "text": "Conduct further excavations for other evidence of similar instruments"
+    }
+  ],
+  "subContentId": "7014edca-88dd-489c-91a5-c2e8922960cf"
+}
