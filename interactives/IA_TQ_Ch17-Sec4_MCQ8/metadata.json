@@ -1,0 +1,27 @@
+{
+  "errata_id": "02272f2346972573e9424857fe31c646f2e6e84578322efdd376ad4197c11cfa",
+  "attachments": [
+    "media/ANTHRO_Figure_17_04_012.jpg"
+  ],
+  "tags": [
+    "context-cnxmod:3bbb9321-5f64-408f-829a-07a39c6c4d42",
+    "lo:stax-anth:17-4-5",
+    "assignment-type:homework",
+    "blooms:4",
+    "time:long",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:17-4-applied-medical-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "17-4-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00104"
+  ]
+}

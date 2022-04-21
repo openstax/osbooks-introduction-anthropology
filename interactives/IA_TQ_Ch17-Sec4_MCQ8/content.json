@@ -1,0 +1,208 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 2,
+  "questions": [
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "Which of the following does <b>not</b> describe the results ofthe work of Dána-Ain Davis and the chart above? ",
+        "answers": [
+          {
+            "text": "White women experienced higher rates of complications and higher death rates for both mothers and infants."
+          },
+          {
+            "text": "Women of color are much more likely to die in childbirth."
+          },
+          {
+            "text": "Women of color experienced higher rates of complications and higher death rates for both mothers and infants."
+          },
+          {
+            "text": "Cultural bias and racism are woven into the US health care system."
+          }
+        ],
+        "subContentId": "8ff0e864-d71f-46e3-973e-c8cea838c0cb"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch17-Sec4_MCQ8-1",
+        "extraTitle": "IA_TQ_Ch17-Sec4_MCQ8-1"
+      }
+    },
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "According to the chart, which two racial or ethnic groups appear to be at the greatest risk of complications and death in childbirth?",
+        "answers": [
+          {
+            "text": "Hispanic and Black women"
+          },
+          {
+            "text": "White and Native American women"
+          },
+          {
+            "text": "Hispanic and Native American women"
+          },
+          {
+            "text": "Black and Native American women"
+          }
+        ],
+        "subContentId": "3d69b810-75cf-40fa-8803-92152e28e5fb"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch17-Sec4_MCQ8-2",
+        "extraTitle": "IA_TQ_Ch17-Sec4_MCQ8-2"
+      }
+    }
+  ],
+  "questionSetStimulus": "<img src=\"media/ANTHRO_Figure_17_04_012.jpg\" alt=\"\">"
+}
