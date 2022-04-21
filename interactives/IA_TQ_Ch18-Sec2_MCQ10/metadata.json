@@ -1,0 +1,25 @@
+{
+  "errata_id": "fd0282631c982030af377fb831b0c6cc6a7585a43c18e6582d263c5ef70336a3",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:18-2-3",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:107888c1-9a5b-47b6-83af-bdec166c450f",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:18-2-animals-and-subsistence"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "18-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00107"
+  ]
+}
