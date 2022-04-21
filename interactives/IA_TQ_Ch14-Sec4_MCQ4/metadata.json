@@ -1,0 +1,23 @@
+{
+  "errata_id": "e4fcaff58090b523c86454fa645f73bb8f49c3219aa0377ce91879e03e51f82c",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:d5d40cdb-0a10-47fa-a039-44809ac08278",
+    "lo:stax-anth:14-4-1",
+    "blooms:4",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:14-4-the-globalization-of-food"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "14-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00085"
+  ]
+}
