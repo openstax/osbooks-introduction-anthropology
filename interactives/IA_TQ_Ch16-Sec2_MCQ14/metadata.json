@@ -1,0 +1,25 @@
+{
+  "errata_id": "9d83d7ef7f6a2e41e687144f8ae50bafc6293d18039c8102157f33efc6dc2728",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:39a8475f-679f-47ae-b022-e4aff16930c0",
+    "lo:stax-anth:16-2-6",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:16-2-anthropology-of-music"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "16-2-6"
+      ]
+    }
+  ],
+  "context": [
+    "m00097"
+  ]
+}
