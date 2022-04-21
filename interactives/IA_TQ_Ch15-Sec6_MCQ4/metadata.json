@@ -1,0 +1,22 @@
+{
+  "errata_id": "3606ebcf54e0fa594e5375c1c4e713113c92d44bd25af5ef50b9c920270a37e5",
+  "attachments": [],
+  "tags": [
+    "book:stax-anth",
+    "lo:stax-anth:15-6-1",
+    "context-cnxmod:83113311-e1b9-4833-80be-860eab695a07",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-6-community-development-and-broadcast-media"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00092"
+  ]
+}
