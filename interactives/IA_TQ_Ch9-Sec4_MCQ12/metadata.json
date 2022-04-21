@@ -1,0 +1,24 @@
+{
+  "errata_id": "45d38e5ef1e2b6d704a29c4983bbf88ce39b645de6c289d2ec6f9c57b754b987",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:4e89d35a-fcc5-40e6-be1c-33c93b210318",
+    "lo:stax-anth:9-4-2",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:9-4-studying-in-addressing-inequities-within-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "9-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00059"
+  ]
+}
