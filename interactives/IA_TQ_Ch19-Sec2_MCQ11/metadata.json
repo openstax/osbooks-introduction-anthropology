@@ -1,0 +1,25 @@
+{
+  "errata_id": "8b494f033c20c920670cb2f2449828a9574851910fa8d5f28088f7d7c2ef5814",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:1d716ffd-0650-41e4-aee0-1c01a0099c4e",
+    "lo:stax-anth:19-2-4",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:19-2-colonization-and-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "19-2-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00113"
+  ]
+}
