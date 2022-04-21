@@ -1,0 +1,25 @@
+{
+  "errata_id": "2903bcf4c8d85bcb70498c07dc6cead1817802af302b403ecf3baec58a727847",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:7-7-5",
+    "context-cnxmod:b2cba4e8-9ccc-46ba-8faa-292774a7657b",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-7-industrialism-and-postmodernity"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-7-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00047"
+  ]
+}
