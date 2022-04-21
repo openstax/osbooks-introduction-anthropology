@@ -1,0 +1,25 @@
+{
+  "errata_id": "f24cb47b511c3e023029e7f9fe30d8bae346f53a8447f89979996a1d6f2afbb4",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:4-5-2",
+    "assignment-type:homework",
+    "blooms:4",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:3170cfcc-6ae3-45dc-ae67-7d89a77a9e17",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-5-what-is-a-primate"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00028"
+  ]
+}
