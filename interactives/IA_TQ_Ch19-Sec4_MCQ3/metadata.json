@@ -1,0 +1,24 @@
+{
+  "errata_id": "071b6f20ac0712521064738faf1cfbd7ecb13d9eecbcb4415ce9a9f640c276c7",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:19-4-1",
+    "context-cnxmod:6ee2a4c6-bd98-4750-817f-07cb39335e47",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:19-4-applied-and-public-anthropology-and-indigenous-peoples"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "19-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00115"
+  ]
+}
