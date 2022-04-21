@@ -1,0 +1,24 @@
+{
+  "errata_id": "027cbcf7bc30db15d5b31107b279bf9c2c38eeb0fcc4c460227d127861ca61d7",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:20-1-1",
+    "blooms:4",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:8d483201-2d34-43da-8e96-d3e6a7191576",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:20-1-our-challenging-world-today"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "20-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00117"
+  ]
+}
