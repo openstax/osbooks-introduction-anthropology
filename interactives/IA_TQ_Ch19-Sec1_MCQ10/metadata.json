@@ -1,0 +1,24 @@
+{
+  "errata_id": "ffd6fd6e257f60f3dc813958f6be3ba170a8419515aa58b6890750d67086f036",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:82b078f9-db83-4dc1-880a-3697cfe4cc63",
+    "lo:stax-anth:19-1-5",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:19-1-indigenous-peoples"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "19-1-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00112"
+  ]
+}
