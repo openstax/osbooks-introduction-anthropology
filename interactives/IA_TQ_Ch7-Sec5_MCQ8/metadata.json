@@ -1,0 +1,27 @@
+{
+  "errata_id": "822362c52a0688343fdf6e82eff3a8f284fec2e1290c3de9b7618091c29289ab",
+  "attachments": [
+    "media/ANTHRO_Figure_07_05_014.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:7-5-3",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:483424ec-4fa5-4aa1-bc6b-b24e9b42770b",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-5-plant-cultivation-horticulture-and-agriculture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-5-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00046"
+  ]
+}
