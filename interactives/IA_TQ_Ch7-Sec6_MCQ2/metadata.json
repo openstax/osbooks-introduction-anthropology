@@ -1,0 +1,24 @@
+{
+  "errata_id": "f167ef13472ae9fb00040c777105c255f64990cd14e3501572264e17da58cf58",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:7-6-1",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:772368b5-1595-4c42-9d69-90fb488489e3",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-6-exchange-value-and-consumption"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00048"
+  ]
+}
