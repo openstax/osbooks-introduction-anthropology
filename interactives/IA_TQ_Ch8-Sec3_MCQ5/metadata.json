@@ -1,0 +1,27 @@
+{
+  "errata_id": "f3099c799eb78d0fc129b3f7846fed6a567a30b2e57ac9504bd629cc53a41cb7",
+  "attachments": [
+    "media/ANTHRO_Figure_08_03_006.jpg",
+    "media/ANTHRO_Figure_08_03_005.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:8-3-4",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:63f6b147-d7a0-4964-ae5c-f943b0f19d01",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:8-3-centralized-societies-chiefdoms-and-states"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "8-3-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00052"
+  ]
+}
