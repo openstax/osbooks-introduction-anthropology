@@ -1,0 +1,25 @@
+{
+  "errata_id": "a0e8dc944ecdcc24be9b1a884cba8301694ab9d9c7a534ba4663fcd2586de56d",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:3-2-4",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:d746da23-af12-48d0-9799-61c486c26010",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:3-2-the-winkiness-of-culture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "3-2-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00018"
+  ]
+}
