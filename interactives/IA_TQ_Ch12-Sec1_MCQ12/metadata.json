@@ -1,0 +1,23 @@
+{
+  "errata_id": "8023b9cb0690924bd0a6941c3c557741b8c03652e7159967dfc36c03f4457c71",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:12-1-3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:a70b9c0a-7155-4a61-aa76-f851301a9a57",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-1-sex-gender-and-sexuality-in-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
