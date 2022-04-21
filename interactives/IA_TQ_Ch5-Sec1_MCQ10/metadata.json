@@ -1,0 +1,27 @@
+{
+  "errata_id": "2545ac2334fe3572fcf9f960596b0b810137f981ba1c05b719a6186e9a334e8e",
+  "attachments": [
+    "media/ANTHRO_Figure_05_01_004.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:5-1-4",
+    "assignment-type:homework",
+    "blooms:4",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:926af9b4-a13e-40cb-937d-b636c9b5c0aa",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:5-1-defining-the-genus-homo"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "5-1-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
