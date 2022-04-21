@@ -1,0 +1,25 @@
+{
+  "errata_id": "7cab221310edf5f3c75fc38259bcb7640d080b4b05d5bbde9c62508aea9f596b",
+  "attachments": [],
+  "tags": [
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "lo:stax-anth:17-2-2",
+    "context-cnxmod:124d3e85-54ca-4bf7-8abe-0c2a5f2b7a98",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:17-2-ethnomedicine"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "17-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00102"
+  ]
+}
