@@ -1,0 +1,25 @@
+{
+  "errata_id": "f83921908c99186f114f71d0009c7e5550f209d8a0410b0d1b8fad678bef2545",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:c524ece6-79e3-455d-870a-3eb33dc22254",
+    "lo:stax-anth:16-1-7",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:16-1-anthropology-of-the-arts"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "16-1-7"
+      ]
+    }
+  ],
+  "context": [
+    "m00096"
+  ]
+}
