@@ -1,0 +1,25 @@
+{
+  "errata_id": "7e2dd43c2f70c66d7e3c77bb8c172f24c4458a5c0b0ff44ee824cdee0268c2f4",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:2-2-4",
+    "time:short",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:fe37820e-e305-445d-9649-c611539485af",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-2-conservation-and-naturalism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-2-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00011"
+  ]
+}
