@@ -1,0 +1,25 @@
+{
+  "errata_id": "0796ec2b0039aba266b686b0e92a36a05a1cecc85d2c6f3e497924774d099578",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:12-3-4",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:262bb16c-1033-438c-935c-4ea9473b435d",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-3-the-power-of-gender-patriarchy-and-matriarchy"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-3-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00073"
+  ]
+}
