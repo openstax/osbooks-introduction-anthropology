@@ -1,0 +1,23 @@
+{
+  "errata_id": "b83fcb6b0833358d38269116f7afbcf9cef5974449b565199b7cdcdf4a262bcb",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:17-1-1",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:617de640-571f-4bf9-97b0-fcd6480b5f72",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:17-1-what-is-medical-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "17-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00101"
+  ]
+}
