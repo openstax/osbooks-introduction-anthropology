@@ -1,0 +1,24 @@
+{
+  "errata_id": "856fdff440d29bb52bcff0e84a526ccbff57402c4870cac97acc252ec71f32e1",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:13-2-1",
+    "time:short",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:5da835c0-2d97-4584-a4dd-4c2d15068657",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:13-2-symbolic-and-sacred-space"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "13-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00077"
+  ]
+}
