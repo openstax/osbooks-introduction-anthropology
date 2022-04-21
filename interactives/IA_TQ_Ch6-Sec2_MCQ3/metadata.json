@@ -1,0 +1,23 @@
+{
+  "errata_id": "d625a2f8e099caa1219d3867f8ef6894e0454f0ddbe4dd1f2e620119623e4e7b",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:6-2-2",
+    "book:stax-anth",
+    "context-cnxmod:0da44154-71ec-40b5-91dd-a2334ade3e7e",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:6-2-language-and-the-mind"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "6-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00038"
+  ]
+}
