@@ -1,0 +1,23 @@
+{
+  "errata_id": "5275ec5ef520fcfb8a8715ebebe574cdd85af7fea61cb47961460419d365d23e",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:5-1-2",
+    "blooms:3",
+    "book:stax-anth",
+    "context-cnxmod:926af9b4-a13e-40cb-937d-b636c9b5c0aa",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:5-1-defining-the-genus-homo"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "5-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
