@@ -1,0 +1,23 @@
+{
+  "errata_id": "d6d8fb97683803342e2fd01b6e535b437189ba49e12a7a78d866aab901dc21c4",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:14-2-4",
+    "blooms:3",
+    "book:stax-anth",
+    "context-cnxmod:11f0e5e4-e39c-4444-a175-7a60c39c636f",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:14-2-a-biocultural-approach-to-food"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "14-2-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00083"
+  ]
+}
