@@ -1,0 +1,24 @@
+{
+  "errata_id": "955308349e0bef1d677637e0b07fd01c80fd66291c36f5afdd42bfb478c232fa",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-5-3",
+    "assignment-type:homework",
+    "blooms:4",
+    "book:stax-anth",
+    "context-cnxmod:8d7ca356-eb5b-40e3-b47c-860eb127b9f9",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-5-holism-anthropologys-distinctive-approach"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-5-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00006"
+  ]
+}
