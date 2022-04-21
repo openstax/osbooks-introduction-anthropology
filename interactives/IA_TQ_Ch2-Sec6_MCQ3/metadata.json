@@ -1,0 +1,23 @@
+{
+  "errata_id": "39d9677dde602e4eb59e1a2a80692deb0a16d60c7dc1af5eefdc42b950e8922e",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:68fd6cd0-99b6-475f-921a-1ac91f191623",
+    "lo:stax-anth:2-6-3",
+    "time:short",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-6-collections"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-6-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00015"
+  ]
+}
