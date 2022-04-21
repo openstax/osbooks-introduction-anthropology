@@ -1,0 +1,25 @@
+{
+  "errata_id": "0ab05b5b7356af61470721aa34726d825049afc9eb3c5b373651f821414136c0",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:3-1-3",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:24c5e955-a267-4406-93f4-f2eae24abba3",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:3-1-the-homeyness-of-culture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "3-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00017"
+  ]
+}

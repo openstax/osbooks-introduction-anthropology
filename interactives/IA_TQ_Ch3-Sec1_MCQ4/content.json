@@ -1,0 +1,208 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 2,
+  "questions": [
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "Which study of culture is most likely undertaken by a cultural anthropologist?",
+        "answers": [
+          {
+            "text": "Participant observation that explores how family life is connected with religion"
+          },
+          {
+            "text": "Analysis of skeletons to understand how human brains developed the capacity for language"
+          },
+          {
+            "text": "Excavation that reveals home-building technologies from the past"
+          },
+          {
+            "text": "Recording regional forms of language within a single nation"
+          }
+        ],
+        "subContentId": "a5bb7a95-8171-4e9d-b676-ea36edd4670d"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch3-Sec1_MCQ4-1",
+        "extraTitle": "IA_TQ_Ch3-Sec1_MCQ4-1"
+      }
+    },
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "What do all four fields of anthropology have in common?",
+        "answers": [
+          {
+            "text": "Research methodologies centered on extracting and interpreting material artifacts"
+          },
+          {
+            "text": "A focus on understanding human culture"
+          },
+          {
+            "text": "A commitment to living peoples in real-world contexts"
+          },
+          {
+            "text": "They rely on E. B. Tylor’s definition of culture"
+          }
+        ],
+        "subContentId": "89f8e620-edd3-46ba-bca8-a02dfff60d42"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch3-Sec1_MCQ4-2",
+        "extraTitle": "IA_TQ_Ch3-Sec1_MCQ4-2"
+      }
+    }
+  ],
+  "questionSetStimulus": "All four fields of anthropology are devoted to understanding human culture."
+}
