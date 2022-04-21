@@ -1,0 +1,23 @@
+{
+  "errata_id": "1988e5ef4fea53e4e4ebad7050a82728c269054ab3ebe6a5504a536b018f04f9",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-3-4",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:55cf6b9b-dcb2-42b1-bb3e-0bc1ee2f8815",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-3-overcoming-ethnocentrism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-3-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00004"
+  ]
+}
