@@ -1,0 +1,25 @@
+{
+  "errata_id": "53c06d1a19456ca14e86fd369d26e7b108a6a9bc37ce52c92dd13b48e44eda75",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:2-3-2",
+    "time:short",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:7de05162-7018-4c38-b9af-decc44584b3c",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-3-ethnography-and-ethnology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00012"
+  ]
+}
