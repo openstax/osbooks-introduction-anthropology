@@ -1,0 +1,24 @@
+{
+  "errata_id": "758e69fdcd658e4aa3b097195897656e399bbda06d848947db312f6b83e232fd",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:19a1e6c4-fe32-4682-9618-fd85d6b87e11",
+    "lo:stax-anth:4-7-1",
+    "assignment-type:homework",
+    "blooms:4",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-7-our-ancient-past-the-earliest-hominins"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-7-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00030"
+  ]
+}
