@@ -1,0 +1,24 @@
+{
+  "errata_id": "4b3d57c934b8cf3c8f5a612dbdafb339b672f041ca3d290ee08a00143a15d13d",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "lo:stax-anth:14-1-4",
+    "context-cnxmod:927f3811-d24a-448d-88f3-3eabf5bb5ae6",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:14-1-food-as-a-material-artifact"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "14-1-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00082"
+  ]
+}
