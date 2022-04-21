@@ -1,0 +1,24 @@
+{
+  "errata_id": "3aee4db94ffc279ce29fd15edf5db72536d8936e9f8eec77b19a68d7a7970948",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:18-4-3",
+    "blooms:3",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:7c45c38a-f7f7-42e2-8848-ca47baf91d99",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:18-4-pet-keeping"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "18-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00109"
+  ]
+}
