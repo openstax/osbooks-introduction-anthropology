@@ -1,0 +1,23 @@
+{
+  "errata_id": "8eb07d00fb94b4fc1646f6f906d0264bfeaacf80dd09d35a0e7405d756c3c311",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:3-4-3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:6d41cce2-1e8d-4c93-a5bd-aff75b004cf9",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:3-4-the-aggregates-of-culture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "3-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00020"
+  ]
+}
