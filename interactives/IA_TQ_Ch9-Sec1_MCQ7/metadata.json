@@ -1,0 +1,23 @@
+{
+  "errata_id": "148ac4462d4a6c65b5c5bcd8c86ec0b9ed976ccd16a768cf3c5f1b961eccb6a1",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:1b4a0352-a588-48f3-961d-dd7a0d589e50",
+    "lo:stax-anth:9-1-2",
+    "time:short",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:9-1-theories-of-inequity-and-inequality"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "9-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00056"
+  ]
+}
