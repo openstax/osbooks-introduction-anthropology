@@ -1,0 +1,24 @@
+{
+  "errata_id": "526fc49841e9ab79d1bbdf2bc5778cbb47c180fb3af357fa0b062aced827e3c9",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-6-3",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:bbfaf7f2-ffae-4d12-ac0b-2d74729bdb83",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-6-cross-cultural-comparison-and-cultural-relativism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-6-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00007"
+  ]
+}
