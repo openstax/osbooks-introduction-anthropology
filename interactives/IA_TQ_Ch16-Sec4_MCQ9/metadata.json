@@ -1,0 +1,24 @@
+{
+  "errata_id": "73b46149e9452fc1eb0098163667bc7cae6c159731d403606e9211f0a23c42eb",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:3457ceba-1943-434d-8b85-2059fa6af134",
+    "lo:stax-anth:16-4-2",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:16-4-anthropology-representation-and-performance"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "16-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00099"
+  ]
+}
