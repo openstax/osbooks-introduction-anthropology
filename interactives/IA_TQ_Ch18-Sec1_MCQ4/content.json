@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "If science recognizes the human-animal continuum and the connectedness of all of life, which of the following would <b>not </b>align with this view according to Claude Lévi-Strauss?  ",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "Many Indigenous groups equate the “other,” or those who are not members of their tribe, as animals."
+    },
+    {
+      "text": "Cultures and religions view humans as separate from nature."
+    },
+    {
+      "text": "A religion such as Buddhism believes in the connectedness of all life. This is further expressed in the belief that animals and humans can reincarnate into either form."
+    },
+    {
+      "text": "In the Andes, some Indigenous groups separate humans from the “other” based on their ability to speak their language."
+    }
+  ],
+  "subContentId": "bd711b46-2e7a-44fc-b128-a4e3c579ff93"
+}
