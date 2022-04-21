@@ -1,0 +1,25 @@
+{
+  "errata_id": "3de66213a60016e071a78099d443db540dd72e45f1684e748a7ca5a751ff4c33",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:16-3-3",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:8d5483a1-be94-4343-aa0e-1a092c1c5e81",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:16-3-an-anthropological-view-of-sport-throughout-time"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "16-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00098"
+  ]
+}
