@@ -1,0 +1,25 @@
+{
+  "errata_id": "cd8c3b5309edee88a0796cccb2796f9cb3263409b9c5cf34b30e4386358c22ff",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-4-2",
+    "time:short",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:721e1b0c-9a11-4a1f-a654-3e7d880b5952",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-4-western-bias-in-our-assumptions-about-humanity"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00005"
+  ]
+}
