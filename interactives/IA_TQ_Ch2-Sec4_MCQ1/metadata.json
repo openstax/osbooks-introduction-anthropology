@@ -1,0 +1,23 @@
+{
+  "errata_id": "2e15ff92475cfe6e762b2506a662f81548d313c142594473f976467741a4894f",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:2-4-1",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:dbb43ec4-4232-4a67-832c-a9a466ea19fb",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-4-participant-observation-and-interviewing"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00013"
+  ]
+}
