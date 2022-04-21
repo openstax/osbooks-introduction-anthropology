@@ -1,0 +1,25 @@
+{
+  "errata_id": "948cabc7273c25c19a9fb759172c14f9200c7bf3e79c2f404e632f97386a9e15",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:3d094ba2-885b-48ff-b17d-6e3bcd4cd0e9",
+    "lo:stax-anth:5-4-2",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:5-4-tracking-genomes-our-human-story-unfolds"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "5-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00035"
+  ]
+}
