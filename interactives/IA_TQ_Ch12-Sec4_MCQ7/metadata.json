@@ -1,0 +1,24 @@
+{
+  "errata_id": "4d688545a648237e94b6b3a9cda423b002f8a8ec48dce6ffc9f12ca0c4270326",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:372e31cd-f763-4834-b518-f633a18e1d6e",
+    "lo:stax-anth:12-4-1",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-4-sexuality-and-queer-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00074"
+  ]
+}
