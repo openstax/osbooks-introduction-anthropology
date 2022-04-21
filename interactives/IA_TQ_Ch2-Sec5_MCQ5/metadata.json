@@ -1,0 +1,25 @@
+{
+  "errata_id": "95cb9055a8405f5ffcaf5cbb15e25ab15400a650ed7d7ed13ddaeb79ebc81c28",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:2-5-2",
+    "time:short",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:a6bef3d3-1618-4766-b014-dfbe12ea5303",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-5-quantitative-and-qualitative-analysis"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00014"
+  ]
+}
