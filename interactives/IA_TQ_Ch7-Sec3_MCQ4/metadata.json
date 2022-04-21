@@ -1,0 +1,23 @@
+{
+  "errata_id": "8a105370757d7a00d194244430c5bc866c6aef4350349cd322990ba533577792",
+  "attachments": [],
+  "tags": [
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:c6bdfa9a-bde8-4094-a516-97167739f219",
+    "lo:stax-anth:7-3-5",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-3-gathering-and-hunting"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-3-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00044"
+  ]
+}
