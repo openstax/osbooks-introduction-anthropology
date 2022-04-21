@@ -1,0 +1,25 @@
+{
+  "errata_id": "582449440ad84a18092b7277618c915303a2d46109f97b4a011e7c63578eac6b",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:75c889fd-6388-4167-a763-36b51d37f88b",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "lo:stax-anth:15-8-4",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-8-digital-media-new-socialities"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-8-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00094"
+  ]
+}
