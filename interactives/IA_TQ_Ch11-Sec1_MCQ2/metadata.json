@@ -1,0 +1,23 @@
+{
+  "errata_id": "03336471ff95116bdaae3d64397b639ecebea5b61973ba436bfc431b9c19854c",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:11-1-1",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:c0141e53-c998-4457-a056-6901ef273b42",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:11-1-what-is-kinship"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "11-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00066"
+  ]
+}
