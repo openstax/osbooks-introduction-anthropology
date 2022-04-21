@@ -1,0 +1,24 @@
+{
+  "errata_id": "cd1e9a8b371927b3b8e29e0661559e69f68d1ce6b29924066b3ed75c41d645dc",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:84e21b5f-26a5-4e55-9c32-906615042b05",
+    "lo:stax-anth:20-3-1",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:20-3-what-anthropologists-can-do"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "20-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00119"
+  ]
+}
