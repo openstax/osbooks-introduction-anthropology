@@ -1,0 +1,24 @@
+{
+  "errata_id": "95fc3f55a49657076a4eb5b09bb9b7360d861af929a4cbe5cef14b7d4c526a29",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-7-1",
+    "context-cnxmod:fe25cf56-c580-4247-a16d-ca9d9c434fb7",
+    "time:short",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-7-reaching-for-an-insiders-point-of-view"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-7-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00008"
+  ]
+}
