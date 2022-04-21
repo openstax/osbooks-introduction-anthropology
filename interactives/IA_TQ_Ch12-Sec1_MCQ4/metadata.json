@@ -1,0 +1,23 @@
+{
+  "errata_id": "bdbc7032fd15ded76bc9701e788fe827ebf5c5ee97cf23d0fcfea32a4905cd32",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:12-1-2",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:a70b9c0a-7155-4a61-aa76-f851301a9a57",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-1-sex-gender-and-sexuality-in-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
