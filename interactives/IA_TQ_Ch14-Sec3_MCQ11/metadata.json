@@ -1,0 +1,22 @@
+{
+  "errata_id": "a4a1bcb6ef5e951373be2ebb4525b2f11710ab940692188ee9a2cba2994b522e",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:14-3-3",
+    "book:stax-anth",
+    "context-cnxmod:0d28f31d-8ed7-4643-a8f8-6fd83349ec75",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:14-3-food-and-cultural-identity"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "14-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00084"
+  ]
+}
