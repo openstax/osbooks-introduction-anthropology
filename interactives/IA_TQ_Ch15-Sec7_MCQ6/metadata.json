@@ -1,0 +1,23 @@
+{
+  "errata_id": "b480ec851d9c343d38d91bc1c1b7cb256104b237f89ab56b95a890c7ffaa52e5",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:15-7-4",
+    "blooms:3",
+    "book:stax-anth",
+    "context-cnxmod:1150abaa-ac4e-405e-8f43-772a617bfcfa",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-7-broadcasting-modernity-and-national-identity"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-7-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00093"
+  ]
+}
