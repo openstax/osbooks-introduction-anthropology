@@ -1,0 +1,24 @@
+{
+  "errata_id": "980a3dbb4e348273e67349759b66a93b70c5bcce7d7d576990e1a387ecd792c2",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:2-4-1",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:dbb43ec4-4232-4a67-832c-a9a466ea19fb",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:2-4-participant-observation-and-interviewing"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "2-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00013"
+  ]
+}
