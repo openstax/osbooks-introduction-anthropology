@@ -1,0 +1,24 @@
+{
+  "errata_id": "03291b2b73ee8fad90bc797fa55c5c0b9ff56d283b3a8d00fed0b02c7627b9e3",
+  "attachments": [],
+  "tags": [
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:2be822dd-899c-47a0-8b02-a60d5d49cd84",
+    "lo:stax-anth:15-1-2",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-1-putting-the-mass-into-media"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00087"
+  ]
+}
