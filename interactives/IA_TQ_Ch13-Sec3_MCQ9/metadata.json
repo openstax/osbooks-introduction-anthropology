@@ -1,0 +1,23 @@
+{
+  "errata_id": "4041b20a9030011fdb82ed8ba485b070c516e17223e460316ea7feaa9ced1bd6",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:13-3-4",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:fc5e190b-2fca-4df3-9f70-7faf1a1de2c4",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:13-3-myth-and-religious-doctrine"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "13-3-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00078"
+  ]
+}
