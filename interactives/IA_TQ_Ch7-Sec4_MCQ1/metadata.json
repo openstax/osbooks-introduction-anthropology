@@ -1,0 +1,24 @@
+{
+  "errata_id": "137856d1f9ee66666992de506b4fc88f28876c069dbf5a5d7471cc86c721f063",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:7-4-1",
+    "time:short",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:d30bcac7-dcca-4d91-8495-76a3de79ac16",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-4-pastoralism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00045"
+  ]
+}
