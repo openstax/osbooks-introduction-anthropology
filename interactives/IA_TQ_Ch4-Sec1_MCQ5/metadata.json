@@ -1,0 +1,24 @@
+{
+  "errata_id": "4cfe7461f3c467223431034c4633b6ae866f5e37f898626cde801dd2e2b879b8",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:4-1-1",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:242eeb6e-e7d2-4ed3-8c06-65f9c04b34f4",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-1-what-is-biological-anthropology"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00024"
+  ]
+}
