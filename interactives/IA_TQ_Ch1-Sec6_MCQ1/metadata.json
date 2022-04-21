@@ -1,0 +1,23 @@
+{
+  "errata_id": "dd3ab692c7c3814261b22a748ab16074ba9f91335bfcfe5286c00f85d2c5f611",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-6-1",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:bbfaf7f2-ffae-4d12-ac0b-2d74729bdb83",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-6-cross-cultural-comparison-and-cultural-relativism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00007"
+  ]
+}
