@@ -1,0 +1,25 @@
+{
+  "errata_id": "10405f6a4127971ca277999dcdd578e51cf22be7346139f99777150408a4e6fb",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:17-3-2",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:54948ed8-6b9f-49db-9df1-04957d6fb267",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:17-3-theories-and-methods"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "17-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00103"
+  ]
+}
