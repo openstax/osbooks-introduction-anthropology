@@ -1,0 +1,23 @@
+{
+  "errata_id": "15317579a9cf8aaf4e2894880871df475fd229d485d6fef8ecb8d88883df2264",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:c51720ad-f155-4214-9b34-6bc5f3781143",
+    "lo:stax-anth:11-4-2",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:11-4-marriage-and-families-across-cultures"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "11-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00069"
+  ]
+}
