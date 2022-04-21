@@ -1,0 +1,24 @@
+{
+  "errata_id": "27b05da4b0833c3852c7006c135b4a1d627b0809ede71e296276aa54aa628f29",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1-2-1",
+    "time:short",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:38d3eaef-9201-4b7f-af1e-1e23c2b19c76",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-2-the-four-field-approach-four-approaches-within-the-guiding-narrative"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00003"
+  ]
+}
