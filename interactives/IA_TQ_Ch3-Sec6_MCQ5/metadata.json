@@ -1,0 +1,23 @@
+{
+  "errata_id": "33077a585dbaa888e0bf5434cc53b42ff3806d06675e8551d84844af42f97b8b",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:fbd63cb3-7951-4f1a-b8aa-7785e653a38c",
+    "lo:stax-anth:3-6-5",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:3-6-the-paradoxes-of-culture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "3-6-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00022"
+  ]
+}
