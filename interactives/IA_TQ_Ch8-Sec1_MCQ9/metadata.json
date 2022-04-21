@@ -1,0 +1,23 @@
+{
+  "errata_id": "14e50e7b10d60cd6cbfe47b4cd637dc5a3b1d741c4130ece83558f838647caad",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:8-1-2",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:1d34c5e9-96b0-42bc-89b9-fe8b25546b21",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:8-1-colonialism-and-the-categorization-of-political-systems"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "8-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00050"
+  ]
+}
