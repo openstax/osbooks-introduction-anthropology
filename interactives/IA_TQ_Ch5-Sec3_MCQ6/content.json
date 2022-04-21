@@ -1,0 +1,208 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 2,
+  "questions": [
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "What does the above statement suggest?",
+        "answers": [
+          {
+            "text": "Human evolution is a linear process."
+          },
+          {
+            "text": "All species with small brains evolve into larger-brained species."
+          },
+          {
+            "text": "Multiple hominin lineages were coexisting and evolving at the same time."
+          },
+          {
+            "text": "Species with small brains are australopithecines."
+          }
+        ],
+        "subContentId": "023dee03-7038-414e-a0fb-1772b29409bd"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch5-Sec3_MCQ6-1",
+        "extraTitle": "IA_TQ_Ch5-Sec3_MCQ6-1"
+      }
+    },
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "Why was the classification of H. naledi a challenge?",
+        "answers": [
+          {
+            "text": "Its rather primitive features such as a small brain size and prognathism and a mosaic of other characteristics from different hominin species"
+          },
+          {
+            "text": "The appearance of humanlike feet"
+          },
+          {
+            "text": "The lack of fossil specimens"
+          },
+          {
+            "text": "The difficulty in accessing the Rising Star cave system"
+          }
+        ],
+        "subContentId": "eba0b8b4-c793-49a3-988f-cdf820686b4b"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch5-Sec3_MCQ6-2",
+        "extraTitle": "IA_TQ_Ch5-Sec3_MCQ6-2"
+      }
+    }
+  ],
+  "questionSetStimulus": "Homo naledi had an EQ of 4.5 and lived at the same time as Homo neanderthalensis and Homo heidelbergensis."
+}
