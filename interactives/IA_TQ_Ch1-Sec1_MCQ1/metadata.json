@@ -1,0 +1,23 @@
+{
+  "errata_id": "f14426461fb1c8b2ac800572c9bef1ed0c1d781255ee89d2f3d7ce14d0af4c9f",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:1.1.3",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:fe82c804-2f68-4b60-95e9-7188c2a1cefe",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:1-1-the-study-of-humanity-or-anthropology-is-vast"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "1.1.3"
+      ]
+    }
+  ],
+  "context": [
+    "m00002"
+  ]
+}
