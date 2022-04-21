@@ -1,0 +1,26 @@
+{
+  "errata_id": "1b79561b72fe0d1eca5cf700eaa0d0284863f6ee0e8bb1c7a2c7957d91cc15f5",
+  "attachments": [
+    "media/ANTHRO_Figure_08_04_011.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:8-4-5",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:9d679038-6d91-40bb-932d-d04b4ac05748",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:8-4-modern-nation-states"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "8-4-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00053"
+  ]
+}
