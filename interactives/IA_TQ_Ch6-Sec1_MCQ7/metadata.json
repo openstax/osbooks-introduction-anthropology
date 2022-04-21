@@ -1,0 +1,23 @@
+{
+  "errata_id": "fadfa7534269d71ff15aaf0a1c7f7f2b065c7ab404dcafe66a28ad1e623d2675",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:6-1-4",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:1c0717a6-1d14-4fdb-87f7-76fd7e511cc5",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:6-1-the-emergence-and-development-of-language"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "6-1-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00037"
+  ]
+}

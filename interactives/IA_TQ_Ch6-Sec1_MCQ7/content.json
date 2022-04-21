@@ -1,0 +1,208 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 2,
+  "questions": [
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "Which theory linking tool use and language was proposed by neuroscientist Michael Arbib?",
+        "answers": [
+          {
+            "text": "The ability to imitate may have generated the first gestural language among hominins."
+          },
+          {
+            "text": "Tool making requires a considerable degree of cognitive planning."
+          },
+          {
+            "text": "Both language and tool making involve ways of encoding information and skills."
+          },
+          {
+            "text": "Language shapes culture, and culture shapes language."
+          }
+        ],
+        "subContentId": "a719b770-bc18-473b-ac1a-b70218ac86de"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch6-Sec1_MCQ7-1",
+        "extraTitle": "IA_TQ_Ch6-Sec1_MCQ7-1"
+      }
+    },
+    {
+      "params": {
+        "UI": {
+          "showSolutionButton": "Show solution",
+          "tryAgainButton": "Retry",
+          "checkAnswerButton": "Check",
+          "tipsLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "tipAvailable": "Tip available",
+          "feedbackAvailable": "Feedback available",
+          "readFeedback": "Read feedback",
+          "wrongAnswer": "Wrong answer",
+          "correctAnswer": "Correct answer",
+          "shouldCheck": "Should have been checked",
+          "shouldNotCheck": "Should not have been checked",
+          "noInput": "Please answer before viewing the solution"
+        },
+        "behaviour": {
+          "enableRetry": true,
+          "enableSolutionsButton": true,
+          "singlePoint": true,
+          "randomAnswers": true,
+          "showSolutionsRequiresInput": true,
+          "type": "auto",
+          "confirmCheckDialog": false,
+          "confirmRetryDialog": false,
+          "autoCheck": false,
+          "passPercentage": 100,
+          "showScorePoints": true,
+          "enableCheckButton": true
+        },
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 0,
+            "feedback": "Wrong"
+          },
+          {
+            "from": 1,
+            "to": 99,
+            "feedback": "Almost!"
+          },
+          {
+            "from": 100,
+            "to": 100,
+            "feedback": "Correct!"
+          }
+        ],
+        "isSolutionPublic": false,
+        "isFreeResponseSupported": true,
+        "question": "According to evidence from archaeology and linguistics, what is one similarity between the use of rocks as tools and the production of speech?",
+        "answers": [
+          {
+            "text": "Both exist in basic forms and advanced forms."
+          },
+          {
+            "text": "Both involve complex mental processes required for planning."
+          },
+          {
+            "text": "Both engage the Broca’s and Wernicke’s areas of the brain."
+          },
+          {
+            "text": "Both are uniquely human activities."
+          }
+        ],
+        "subContentId": "bcabcc1e-ea48-48ce-8957-4b1c352f5062"
+      },
+      "library": "H5P.MultiChoice 1.16",
+      "metadata": {
+        "contentType": "Multiple Choice",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "IA_TQ_Ch6-Sec1_MCQ7-2",
+        "extraTitle": "IA_TQ_Ch6-Sec1_MCQ7-2"
+      }
+    }
+  ],
+  "questionSetStimulus": "The explosion of innovations in tool making over the past 100,000 years is linked to the emergence of complex human language."
+}
