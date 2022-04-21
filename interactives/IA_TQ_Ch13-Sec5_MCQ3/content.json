@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Who was the founder of the Shaker movement in the United States?",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": true,
+  "answers": [
+    {
+      "text": "A Catholic missionary, Father El Angosto, who arrived in New York in 1784 to establish the movement"
+    },
+    {
+      "text": "A minister of the Anglican church, Rev. Bruderhof, who started the movement in 1784 in Massachusetts and later died as a martyr"
+    },
+    {
+      "text": "Ann Lee, or Mother Ann, who died in 1784 as a result of beatings she sustained while seeking converts and followers of the movement"
+    },
+    {
+      "text": "Political activist and abolitionist Frederick Douglass, who after escaping slavery became a leader of the Shaker movement"
+    }
+  ],
+  "subContentId": "86466c14-70c0-45e8-9c49-dedce3693f7b"
+}
