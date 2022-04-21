@@ -1,0 +1,23 @@
+{
+  "errata_id": "b3e38a672372594839632669999f16fe85d59382b90e6f6da82c4b36b9f270ef",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:13-4-5",
+    "book:stax-anth",
+    "context-cnxmod:6d8a96a2-151b-4cf4-a860-1534999b7070",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:13-4-rituals-of-transition-and-conformity"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "13-4-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00079"
+  ]
+}
