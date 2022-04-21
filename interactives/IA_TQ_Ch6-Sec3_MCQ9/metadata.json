@@ -1,0 +1,24 @@
+{
+  "errata_id": "106c4309cb3745d0bf965faf5d356e40e5dce30872b7f520ba2afaa2cc84d3b0",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:6-3-2",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:d6f25e7d-0c04-4727-a2f6-e8c00f337852",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:6-3-language-community-and-culture"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "6-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00039"
+  ]
+}
