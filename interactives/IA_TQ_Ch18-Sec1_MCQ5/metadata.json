@@ -1,0 +1,24 @@
+{
+  "errata_id": "33ac5a8e92d74a9d66593f3a5486997a0a4ee1fe5c0f5eeb2dd8e992d119dc08",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:18-1-2",
+    "blooms:4",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:f731ce30-f0cd-493a-aae6-6b3a6333932d",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:18-1-humans-and-animals"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "18-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00106"
+  ]
+}
