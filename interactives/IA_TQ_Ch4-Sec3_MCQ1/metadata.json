@@ -1,0 +1,23 @@
+{
+  "errata_id": "5ddf52fdb8fdc77918904a7e8442083c10ba9d80279edc8017e20576e9d03537",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:4-3-1",
+    "book:stax-anth",
+    "context-cnxmod:2565bcc4-6398-4496-b39f-85a250871426",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-3-its-all-in-the-genes-the-foundation-of-evolution"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00026"
+  ]
+}
