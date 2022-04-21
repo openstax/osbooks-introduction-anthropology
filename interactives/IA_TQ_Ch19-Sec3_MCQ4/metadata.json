@@ -1,0 +1,25 @@
+{
+  "errata_id": "65737ac0dfd5acda77a40f18bc94d016992bf577e86362a2a173e475d408d426",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:06402547-6bce-4243-9a85-5f700a474e83",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "lo:stax-anth:19-3-2",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:19-3-indigenous-agency-and-rights"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "19-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00114"
+  ]
+}
