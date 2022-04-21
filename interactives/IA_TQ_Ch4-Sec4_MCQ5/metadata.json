@@ -1,0 +1,27 @@
+{
+  "errata_id": "9f982ef691cee0fd25b24fac77ce8eedcfc68f7bc6c8b636b59ccf33235cff8e",
+  "attachments": [
+    "media/ANTHRO_Figure_04_04_014.jpg"
+  ],
+  "tags": [
+    "blooms:5",
+    "lo:stax-anth:4-4-3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:53edbf3a-269a-43b6-bf7d-993c44e19aa5",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-4-evolution-in-action-past-and-present"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00027"
+  ]
+}
