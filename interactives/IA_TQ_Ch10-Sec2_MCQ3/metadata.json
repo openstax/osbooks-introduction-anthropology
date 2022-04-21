@@ -1,0 +1,23 @@
+{
+  "errata_id": "7040012ff2db8e5d174070613875fd1cac70771179204013e4b4116461cb2f48",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:10-2-1",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:7e31de2a-5b44-40ba-bb63-f99574c18677",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:10-2-early-global-movements-and-cultural-hybridity"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "10-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00062"
+  ]
+}

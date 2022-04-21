@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "To what place and time do scholars date the earliest emergence of colonialism?",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": true,
+  "answers": [
+    {
+      "text": "Cuzco, Peru, in 1780"
+    },
+    {
+      "text": "Christopher Columbus’s journeys from Spain to the New World at the end of the 15th century CE"
+    },
+    {
+      "text": "The city-states of Mesopotamia in Western Asia, around 3500 BC"
+    },
+    {
+      "text": "The Phoenicians in Carthage, around 800 BC"
+    }
+  ],
+  "subContentId": "bf2a4ce6-d79b-4440-8953-c75927ecb57b"
+}
