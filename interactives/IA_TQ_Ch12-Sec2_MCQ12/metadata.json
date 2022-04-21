@@ -1,0 +1,24 @@
+{
+  "errata_id": "f7f7abe30c932b3d6c445d57c9bb7665abb744246f92b57c757da66bcfa1150b",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:12-2-3",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:b6007441-aa1e-4fa6-8f3c-46b46bb73fb2",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-2-performing-gender-categories"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00072"
+  ]
+}
