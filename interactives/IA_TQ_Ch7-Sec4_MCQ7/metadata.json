@@ -1,0 +1,25 @@
+{
+  "errata_id": "6884fbd79804324e6f9b8cbd70585767d0bf568f781dfe857d7507e7a73040fe",
+  "attachments": [
+    "media/ANTHRO_Figure_07_04_009.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:7-4-5",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:d30bcac7-dcca-4d91-8495-76a3de79ac16",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-4-pastoralism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-4-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00045"
+  ]
+}
