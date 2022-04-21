@@ -1,0 +1,23 @@
+{
+  "errata_id": "ac18be49bc2099363aa7919afec8054828db252fee1e51e3e996aee9aabd9a3a",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:10-1-2",
+    "time:short",
+    "book:stax-anth",
+    "context-cnxmod:b210f848-3024-4865-bbb2-2e7709d4d7c4",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:10-1-peopling-of-the-world"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "10-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00061"
+  ]
+}
