@@ -1,0 +1,23 @@
+{
+  "errata_id": "0a8fc7677f5ef3d8fcb8cbd7134ab937af2baa553ce3e2ecd560b63755e384ff",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:7-2-1",
+    "book:stax-anth",
+    "context-cnxmod:2b7645d9-177b-42bf-b595-adba152089a0",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-2-modes-of-subsistence"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00043"
+  ]
+}
