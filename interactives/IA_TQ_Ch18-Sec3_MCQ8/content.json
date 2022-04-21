@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Which of the following is <b>not</b> an example of how animals might be used or featured in religion?   ",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": false,
+  "answers": [
+    {
+      "text": "A white elephant as the reincarnation of Buddha as seen in Buddhism"
+    },
+    {
+      "text": "The white dove as seen in the Christian story of Noah and the ark "
+    },
+    {
+      "text": "Guinea pigs that are sacrificed and used as a means to diagnose and cure disease"
+    },
+    {
+      "text": "The use of cows as sacrifices in Hinduism"
+    }
+  ],
+  "subContentId": "045539a3-7503-406e-a4c5-93532b964ddf"
+}
