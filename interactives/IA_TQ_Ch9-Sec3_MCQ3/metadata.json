@@ -1,0 +1,25 @@
+{
+  "errata_id": "173c86debe35419f198afd32dea7e07847ce0d04b09ac249b7ef659658af1a21",
+  "attachments": [
+    "media/ANTHRO_Figure_09_03_006.png"
+  ],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:9-3-1",
+    "book:stax-anth",
+    "context-cnxmod:77c9c4f3-3361-4832-8eaa-4f84d25ae169",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:9-3-intersections-of-inequality"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "9-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00058"
+  ]
+}
