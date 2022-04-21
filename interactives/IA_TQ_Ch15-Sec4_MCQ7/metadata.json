@@ -1,0 +1,25 @@
+{
+  "errata_id": "8d21f0e4543124a84da444e027e62b37fe03a05079e927589bb7d91bd7f98f58",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:15-4-4",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:b5b060b3-77be-4219-b2d4-953392587300",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-4-photography-representation-and-memory"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-4-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00090"
+  ]
+}
