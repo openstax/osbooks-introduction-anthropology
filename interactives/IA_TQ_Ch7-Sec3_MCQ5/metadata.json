@@ -1,0 +1,27 @@
+{
+  "errata_id": "8dc0914bdda35d54799fe4ecd55efe3fe998021afd5ae3b53a3f058d76a12f80",
+  "attachments": [
+    "media/ANTHRO_Figure_07_03_004.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:7-3-3",
+    "assignment-type:homework",
+    "time:long",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:c6bdfa9a-bde8-4094-a516-97167739f219",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:7-3-gathering-and-hunting"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "7-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00044"
+  ]
+}
