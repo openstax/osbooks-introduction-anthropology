@@ -1,0 +1,22 @@
+{
+  "errata_id": "b9fc5d46caf473455286fb2fca1bd55d06a7fe2d3b8ae9be0e9150bb9030e0ac",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:82b078f9-db83-4dc1-880a-3697cfe4cc63",
+    "lo:stax-anth:19-1-5",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:19-1-indigenous-peoples"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "19-1-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00112"
+  ]
+}
