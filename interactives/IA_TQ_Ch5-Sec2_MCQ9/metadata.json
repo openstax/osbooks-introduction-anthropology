@@ -1,0 +1,25 @@
+{
+  "errata_id": "917a4f31a41c0eb95bd13ac6577f91fe169ca0e6049218ef50dba55e6eb213e7",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:5-2-3",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:8f581c62-c9c6-446d-85eb-8b904bbd107a",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:5-2-tools-and-brains-homo-habilis-homo-ergaster-and-homo-erectus"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "5-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00033"
+  ]
+}
