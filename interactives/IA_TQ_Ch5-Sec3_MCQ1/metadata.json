@@ -1,0 +1,25 @@
+{
+  "errata_id": "fcc63df27fecba9b332fd96f6dd2040158d5ac6285781aedfdb42d6af638ffdc",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:5-3-1",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:a6732ba6-2b86-4df0-8783-954749f0e2c7",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:5-3-the-emergence-of-us-the-archaic-homo"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "5-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00034"
+  ]
+}
