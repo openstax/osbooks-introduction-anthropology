@@ -1,0 +1,26 @@
+{
+  "errata_id": "a9b74d40307e40089aa3f7e16dcc0cfea80419259e58469a39f06752aee2048e",
+  "attachments": [
+    "media/ANTHRO_Figure_10_04_014.jpg"
+  ],
+  "tags": [
+    "context-cnxmod:01408975-c9eb-470c-a85c-8b575bffe16e",
+    "lo:stax-anth:10-4-2",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:10-4-inequality-along-the-margins"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "10-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00064"
+  ]
+}
