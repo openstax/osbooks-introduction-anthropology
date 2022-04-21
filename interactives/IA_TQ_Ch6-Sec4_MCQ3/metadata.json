@@ -1,0 +1,23 @@
+{
+  "errata_id": "8e47368c83811bf788935b29e2f833b6158bf9660a66ad225d89cac5288bed6c",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:6-4-1",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:b5d8e462-ef37-4cfc-a1a9-9dbfcf50145b",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:6-4-performativity-and-ritual"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "6-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
