@@ -1,0 +1,24 @@
+{
+  "errata_id": "4b07885db80da0cbd4889209cf409e437f94234a515ade2e90a156725f82ec2c",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:11-3-3",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:a28f3918-9e2e-457f-885b-6d1a93acdef1",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:11-3-reckoning-kinship-across-cultures"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "11-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00068"
+  ]
+}
