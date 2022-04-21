@@ -1,0 +1,27 @@
+{
+  "errata_id": "1445372bb757311c9f4c695843ff4ac39c291f63042ff6bcc729b644ea12a240",
+  "attachments": [
+    "media/ANTHRO_Figure_11_01_002A.jpg",
+    "media/ANTHRO_Figure_11_01_002.jpg",
+    "media/ANTHRO_Figure_11_01_002A.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:11-1-3",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:c0141e53-c998-4457-a056-6901ef273b42",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:11-1-what-is-kinship"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "11-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00066"
+  ]
+}
