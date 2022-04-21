@@ -1,0 +1,24 @@
+{
+  "errata_id": "ce970c7c12126c51c7a968bf3971cd6a7887f404f09593dad8fca63797e19c36",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:12-3-2",
+    "time:short",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:262bb16c-1033-438c-935c-4ea9473b435d",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:12-3-the-power-of-gender-patriarchy-and-matriarchy"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "12-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00073"
+  ]
+}
