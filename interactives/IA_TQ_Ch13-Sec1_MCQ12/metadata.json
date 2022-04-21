@@ -1,0 +1,25 @@
+{
+  "errata_id": "08ef92db882c37baf344341cb0a86f70cfc8d3c40dfd0cfa6f97b2f479bba836",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:13-1-5",
+    "blooms:3",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:870bfcba-3945-48b7-9827-12650de495f9",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:13-1-what-is-religion"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "13-1-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00076"
+  ]
+}
