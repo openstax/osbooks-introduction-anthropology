@@ -1,0 +1,24 @@
+{
+  "errata_id": "abec6bbe560b6b4fc5acb8e02ed6b899303b358fd017dac77fe16533e77d5ab4",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:15-5-1",
+    "blooms:3",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:71a2f3a2-b117-4941-8b3a-df1e6df954c5",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:15-5-news-media-the-public-sphere-and-nationalism"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "15-5-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00091"
+  ]
+}
