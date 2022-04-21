@@ -1,0 +1,26 @@
+{
+  "errata_id": "70dd04c297fac37664164686c4b84a7829327e2ac533dd772e66011ed2c6710d",
+  "attachments": [
+    "media/ANTHRO_Figure_10_03_008.jpg"
+  ],
+  "tags": [
+    "lo:stax-anth:10-3-3",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:179ce2a3-bd1c-45aa-8b0c-74ff9499ae22",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:10-3-peasantry-and-urbanization"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "10-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00063"
+  ]
+}
