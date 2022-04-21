@@ -1,0 +1,23 @@
+{
+  "errata_id": "94331e1c1cb54b1c3e8e3f815a8a56479f8e6e64b7826b6767783f2ecd068023",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:8-4-6",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:9d679038-6d91-40bb-932d-d04b4ac05748",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:8-4-modern-nation-states"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "8-4-6"
+      ]
+    }
+  ],
+  "context": [
+    "m00053"
+  ]
+}

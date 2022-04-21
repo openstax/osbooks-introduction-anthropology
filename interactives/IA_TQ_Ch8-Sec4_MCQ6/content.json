@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "According to Arjun Appadurai, what is a “darker consequence” of globalization for national and transnational politics?",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": true,
+  "answers": [
+    {
+      "text": "Environmental damage increases as globalized industries take advantage of profit opportunities."
+    },
+    {
+      "text": "New realms of imagined community allow for transnational communities based on values."
+    },
+    {
+      "text": "New forms of political violence are targeted against ethnic, racial, and religious minority groups."
+    },
+    {
+      "text": "It is the root historical cause of fragile states and failed states in Africa, in particular."
+    }
+  ],
+  "subContentId": "91ee4653-bb17-430f-8400-1a5cc60ae844"
+}
