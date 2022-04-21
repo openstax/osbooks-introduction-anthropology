@@ -1,0 +1,24 @@
+{
+  "errata_id": "bd58d100d6c697f2aa444d451252e712b74ef2153eee6e7e041ef5b386f49fd1",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:6fcba483-493f-4584-809b-b33323307314",
+    "lo:stax-anth:13-5-3",
+    "blooms:3",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:13-5-other-forms-of-religious-practice"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "13-5-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00080"
+  ]
+}
