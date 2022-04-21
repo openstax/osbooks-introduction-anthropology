@@ -1,0 +1,23 @@
+{
+  "errata_id": "656ca2f12789ee4fb61c1e4de673be8735e5e108f2c6f9feffa3dd20e7f1b0a7",
+  "attachments": [],
+  "tags": [
+    "time:short",
+    "lo:stax-anth:4-4-1",
+    "book:stax-anth",
+    "context-cnxmod:53edbf3a-269a-43b6-bf7d-993c44e19aa5",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-4-evolution-in-action-past-and-present"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00027"
+  ]
+}
