@@ -1,0 +1,66 @@
+{
+  "UI": {
+    "showSolutionButton": "Show solution",
+    "tryAgainButton": "Retry",
+    "checkAnswerButton": "Check",
+    "tipsLabel": "Show tip",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Tip available",
+    "feedbackAvailable": "Feedback available",
+    "readFeedback": "Read feedback",
+    "wrongAnswer": "Wrong answer",
+    "correctAnswer": "Correct answer",
+    "shouldCheck": "Should have been checked",
+    "shouldNotCheck": "Should not have been checked",
+    "noInput": "Please answer before viewing the solution"
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "singlePoint": true,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "type": "auto",
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true,
+    "enableCheckButton": true
+  },
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 0,
+      "feedback": "Wrong"
+    },
+    {
+      "from": 1,
+      "to": 99,
+      "feedback": "Almost!"
+    },
+    {
+      "from": 100,
+      "to": 100,
+      "feedback": "Correct!"
+    }
+  ],
+  "question": "Why do South Asian women who migrate to Kuwait often experience internal conflicts while economically supporting their families?",
+  "isSolutionPublic": false,
+  "isFreeResponseSupported": true,
+  "answers": [
+    {
+      "text": "Migration satisfies their personal ambitions for travel and cultural discovery, but they contribute very little to the economic well-being of their families."
+    },
+    {
+      "text": "They often prepare their native cuisines and maintain South Asian gender roles, but those who adopt Islamic cultural practices are paid higher wages."
+    },
+    {
+      "text": "The da’wa classes, which they are required to take, are so expensive that they diminish the amount of money that can be sent home."
+    },
+    {
+      "text": "They experience profound personal change when adapting to a new culture, but their natal families expect them to behave the same once they return."
+    }
+  ],
+  "subContentId": "76f724d3-b5ca-44ac-8440-daa8a917e1b8"
+}
