@@ -1,0 +1,24 @@
+{
+  "errata_id": "b37ad73a7d2ddf549f722db029b6b2b13e0e431682a8d8fd68c42fc3da43570a",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:4-6-3",
+    "assignment-type:homework",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:ddf4aece-86ba-4fb8-ae24-3e50424d1150",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:4-6-origin-of-and-classification-of-primates"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "4-6-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00029"
+  ]
+}
