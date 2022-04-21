@@ -1,0 +1,24 @@
+{
+  "errata_id": "114bcc06b802efad07631873a878198e1f5542cd50037dcf28c32a0517cc0fa0",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:11-2-3",
+    "time:short",
+    "blooms:2",
+    "book:stax-anth",
+    "context-cnxmod:8ece979f-a259-4962-85a2-0c9a84c3fd98",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:11-2-defining-family-and-household"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "11-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00067"
+  ]
+}
