@@ -1,0 +1,23 @@
+{
+  "errata_id": "18d57e565bcf6462274e7f6a4f0f1b3358025f9545f11d6bc1eb02576d66b437",
+  "attachments": [],
+  "tags": [
+    "lo:stax-anth:6-2-1",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "context-cnxmod:0da44154-71ec-40b5-91dd-a2334ade3e7e",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:6-2-language-and-the-mind"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "6-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00038"
+  ]
+}
