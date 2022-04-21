@@ -1,0 +1,25 @@
+{
+  "errata_id": "4164c59f2d3a0a1ededa217afe4fd0408f5195afd11da2589c89cda169a3ffae",
+  "attachments": [],
+  "tags": [
+    "blooms:5",
+    "lo:stax-anth:20-2-1",
+    "assignment-type:homework",
+    "time:long",
+    "book:stax-anth",
+    "context-cnxmod:83afcb14-b16e-49cc-b807-819b61325ba7",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:20-2-why-anthropology-matters"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "20-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00118"
+  ]
+}
