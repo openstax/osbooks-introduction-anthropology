@@ -1,0 +1,23 @@
+{
+  "errata_id": "b4ed615d5cb333be3aba7c52ac6d293a306dd5ac3eff07a99914b80544c38bb5",
+  "attachments": [],
+  "tags": [
+    "context-cnxmod:8cd7275a-ad05-4f08-8a1f-f0e44ce3461b",
+    "lo:stax-anth:8-5-1",
+    "assignment-type:homework",
+    "book:stax-anth",
+    "book-slug:introduction-anthropology",
+    "module-slug:introduction-anthropology:8-5-resistance-revolution-and-social-movements"
+  ],
+  "books": [
+    {
+      "name": "stax-anth",
+      "lo": [
+        "8-5-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00054"
+  ]
+}
